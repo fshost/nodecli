@@ -1,4 +1,2 @@
-nodecli
-=======
-
-Makes using Node.js as an interactive command line tool easy
+﻿### nodecli
+a Node.js command line tool

@@ -1,0 +1,30 @@
+{
+  "name": "nodecli",
+  "version": "0.0.1",
+  "description": "easily use Node.js as an interactive command-line tool",
+  "main": "nodecli.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "pw": "~0.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fshost/nodecli"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "command",
+    "cli",
+    "tool"
+  ],
+  "author": "Mashdraggin",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
