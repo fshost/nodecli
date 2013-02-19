@@ -1,7 +1,7 @@
 ﻿var nodecli = require('../nodecli');
 
 nodecli([
-      'username',
+      'user name',
       { email: { confirm: true } },
       'age',
       { sex: 'male' },
@@ -10,7 +10,4 @@ nodecli([
     ], function(err, answers) {
       if (err) throw err;
       console.log('answers:');
-      console.log(answers);
-    
-    
     });
